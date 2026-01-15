@@ -211,8 +211,14 @@ Automatic translation, grammar correction, text-to-speech, and document export
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Vocalyze-A-Speech-to-text-Geneartor.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vocalyze31.web.app/)
+<a href="https://github.com/Dhruv3110/Vocalyze-A-Speech-to-text-Geneartor.git" target="_blank">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://vocalyze31.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 
 </div>
 
@@ -253,8 +259,14 @@ Allows users to explore, read, and manage a library of 75,000+ public domain boo
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Readsy-E-book-Platform.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://readsy.web.app/)
+<a href="https://github.com/Dhruv3110/Readsy-E-book-Platform.git" target="_blank">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://readsy.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 
 </div>
 
@@ -376,8 +388,14 @@ Showcasing step-by-step execution of multiple algorithms to enhance algorithm le
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Sorting_Visualizer.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sorting-visualizer-e31d8.web.app/)
+<a href="https://github.com/Dhruv3110/Sorting_Visualizer.git" target="_blank">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://sorting-visualizer-e31d8.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 
 </div>
 
@@ -418,8 +436,14 @@ Built for speed, reliability, and seamless communication
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/QuickTalk_Real_Time_Chat_Application.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quicktalk-3e3ec.web.app/)
+<a href="https://github.com/Dhruv3110/QuickTalk_Real_Time_Chat_Application.git" target="_blank">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://quicktalk-3e3ec.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 
 </div>
 
