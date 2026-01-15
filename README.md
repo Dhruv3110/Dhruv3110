@@ -42,7 +42,7 @@ const dhruv: Developer = {
   focus: ["Artificial Intelligence", "Data Science", "System Design"],
   technologies: {
     ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "LLMs"],
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    frontend: ["React", "vite","Tailwind CSS"],
     backend: ["Node.js", "Express", "Python", "FastAPI"],
     databases: ["MongoDB", "MySQL", "Firebase"],
     tools: ["Github", "Git", "VSCode"]
