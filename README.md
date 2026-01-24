@@ -45,7 +45,7 @@ const dhruv: Developer = {
     frontend: ["React", "vite","Tailwind CSS"],
     backend: ["Node.js", "Express", "Python", "FastAPI"],
     databases: ["MongoDB", "MySQL", "Firebase"],
-    tools: ["Github", "Git", "VSCode"]
+    tools: ["Github", "Git", "VSCode", "Postman"]
   },
   interests: ["Generative AI", "NLP", "Scalable Architecture", "Open Source"],
   funFact: "I debug with console.log() and I'm proud of it! 😄"
