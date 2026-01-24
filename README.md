@@ -86,7 +86,7 @@ const dhruv: Developer = {
 
 ### **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
 
 </div>
 
