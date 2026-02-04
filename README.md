@@ -1,9 +1,8 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DHRUV%20GUPTA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="Github_banner.png" />
+
 
 
 
@@ -495,4 +494,4 @@ Built for speed, reliability, and seamless communication
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+them!" width="100%">
