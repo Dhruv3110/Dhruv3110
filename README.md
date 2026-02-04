@@ -2,18 +2,8 @@
 
 <!-- Animated Header with Gradient -->
 <img width="100%" src="Github_banner.png" />
-
-
-
-
- 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=Full+Stack+Developer;AI+%26+Data+Science+Engineer;LLM+Developer;Always+Learning" alt="Typing SVG" />
-</div>
-
-
-
+<div></div>
+<br/>
 <!-- Stylized Tagline -->
 <div>
   <img src="https://img.shields.io/badge/_Building_Intelligent_Systems-8B5CF6?style=for-the-badge&labelColor=1F2937"/>
