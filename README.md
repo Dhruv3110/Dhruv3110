@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img width="100%" src="Github_banner.png" />
+<img width="100%" src="./assests/Github_banner.png" />
 <div></div>
 <br/>
 <!-- Stylized Tagline -->
@@ -513,4 +513,4 @@ Built for speed, reliability, and seamless communication
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="footer.svg"/>
+<img width="100%" src="./assests/footer.svg"/>
