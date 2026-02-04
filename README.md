@@ -494,4 +494,4 @@ Built for speed, reliability, and seamless communication
 </div>
 
 <!-- Footer Wave -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+them!" width="100%">
+<img width="100%" src="footer.svg"/>
