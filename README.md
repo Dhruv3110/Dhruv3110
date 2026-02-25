@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img width="100%" src="./assests/Github_banner.png" />
+<img width="100%" src="./assests/Github_banner (2).png" />
 <div></div>
 <br/>
 <!-- Stylized Tagline -->
