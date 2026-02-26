@@ -34,7 +34,7 @@ const dhruv: Developer = {
     frontend: ["React", "vite","Tailwind CSS"],
     backend: ["Node.js", "Express", "Python", "FastAPI"],
     databases: ["MongoDB", "MySQL", "Firebase"],
-    automation_testing: ["Selenium", "TestNG", "Maven", "Extent Reports"],
+    automation_testing: ["Selenium", "TestNG", "Maven", "Extent Reports", "RESTAssured"],
     tools: ["Github", "Git", "VSCode", "Postman"]
   },
   interests: ["Generative AI", "NLP", "Scalable Architecture", "Open Source"],
@@ -100,6 +100,7 @@ const dhruv: Developer = {
 ### **Automation & Testing**
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TestNG-DC524A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/Extent_Reports-FF6C37?style=for-the-badge&logoColor=white" />
