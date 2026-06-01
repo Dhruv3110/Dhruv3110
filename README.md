@@ -1,515 +1,331 @@
+ <!--<div align="center">
+
+<img width="100%" src="./assests/Github_banner (2).png" />
+
+</div> 
+-->
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="./assests/Github_banner (2).png" />
-<div></div>
-<br/>
-<!-- Stylized Tagline -->
-<div>
-  <img src="https://img.shields.io/badge/_Building_Intelligent_Systems-8B5CF6?style=for-the-badge&labelColor=1F2937"/>
-  <img src="https://img.shields.io/badge/_Data--Driven-6366F1?style=for-the-badge&labelColor=1F2937"/>
-  <img src="https://img.shields.io/badge/_AI--Powered-EC4899?style=for-the-badge&labelColor=1F2937"/>
-</div>
-
-<br/><br/>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=850&height=130&lines=Hey+there!+I'm+Dhruv+Gupta+%F0%9F%91%8B;AI+Engineer+%7C+Full-Stack+Developer+%7C+QA-Automation+Tester;Building+AI+Solutions+%E2%80%A2+Web+Apps+%E2%80%A2+Test+Automation+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
+---
+
 <br/>
 
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-
-## **ABOUT ME**
+## 🧑‍💻 ABOUT ME
 
 ```typescript
 const dhruv: Developer = {
-  location: "India 🇮🇳",
-  education: "B.Tech Computer Science | Class of 2026",
-  role: "Full-Stack Developer & AI Engineer",
-  currentProject: "Hinglish → Hindi Transliteration using LLMs",
-  focus: ["Artificial Intelligence", "Data Science", "System Design"],
-  technologies: {
-    ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "LLMs"],
-    frontend: ["React", "vite","Tailwind CSS"],
-    backend: ["Node.js", "Express", "Python", "FastAPI"],
-    databases: ["MongoDB", "MySQL", "Firebase"],
-    automation_testing: ["Selenium", "TestNG", "Maven", "Extent Reports", "RESTAssured"],
-    tools: ["Github", "Git", "VSCode", "Postman"]
+  location  : "India 🇮🇳",
+  education : "B.Tech CS · Class of 2026",
+  role      : "Full-Stack Dev, AI Engineer & QA Automation Enthusiast",
+
+  current   : "Hinglish → Hindi Transliteration (LLMs)",
+  learning  : ["Generative AI", "NLP", "System Design", "Test Automation"],
+
+  stack: {
+    ai_ml     : ["PyTorch", "TensorFlow", "HuggingFace", "LLMs"],
+    frontend  : ["React", "Vite", "Tailwind CSS"],
+    backend   : ["Node.js", "FastAPI", "Express"],
+    databases : ["MongoDB", "MySQL", "Firebase"],
   },
-  interests: ["Generative AI", "NLP", "Scalable Architecture", "Open Source"],
-  funFact: "I debug with console.log() and I'm proud of it! 😄"
+
+  automation: {
+    ui_testing  : ["Selenium", "Playwright"],
+    api_testing : ["REST Assured"],
+    frameworks  : ["TestNG"],
+    build_tools : ["Maven"],
+    reporting   : ["Extent Reports"],
+  },
+
+  funFact: "I turn caffeine into code and bugs into features. ☕";
 };
 ```
 
+<br clear="right"/>
 
+---
 
 <br/>
 
-## **TECH STACK**
+## 🚀 Tech Stack
 
 <div align="center">
 
-### **Programming Languages**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css&theme=dark" />
 </p>
 
-### **AI/ML & Data Science**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-### **Frontend Development**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+### 🤖 AI • Machine Learning • Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### **Backend Development**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+### 🌐 Full-Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,nodejs,express,fastapi&theme=dark" />
 </p>
 
-### **Databases**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 </p>
 
-### **Automation & Testing**
-<p align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+### 🧪 Test Automation & QA
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-DC524A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-EA4335?style=for-the-badge&logo=testng&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Extent_Reports-FF6C37?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Extent_Reports-FF6F00?style=for-the-badge&logoColor=white" />
 </p>
 
-### **Tools**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+### 🛠️ Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
 </p>
 
 </div>
 
-<br/>
+---
 
 <br/>
 
-## **FEATURED PROJECTS**
+## 🏆 FEATURED PROJECTS
 
 <br/>
-
-<!-- Project 1: Hinglish Transliteration -->
 <div align="center">
-
-
-###  **Roman → Devanagari Transliteration System**
-<img src="https://img.shields.io/badge/LLM-Gemma--2B-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/QLoRA-Finetuned-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" />
-
+  
+  <div align="center">
+  
+  ### 🧠 Brain Tumor Segmentation & AI Report Generation
+  
+  </div>
+  
+  <table>
+  <tr>
+  <td width="80%">
+  
+  ```
+  🔬 End-to-end clinical pipeline for 3D brain tumor
+     segmentation from multi-parametric MRI scans
+  
+  🏗  AGSE-VNet: 3D U-Net + Attention Gates + SE Blocks
+  📊  Dataset: BraTS 2021 (multi-parametric MRI)
+  🗺  Atlas: Julich Brain via ANTsPy SyN registration
+  🤖  Reports: BioMistral-7B → 7-section clinical output
+  📈  Dashboard: 4-tab HTML · MRI viewer · risk gauge
+  ```
+  
+  | Feature | Description |
+  |:--|:--|
+  | **AGSE-VNet** | SE blocks + Attention Gates on 3D MRI volumes |
+  | **Atlas Mapping** | Tumor core → MNI152 → Julich Brain regions |
+  | **AI Reports** | BioMistral-7B structured clinical output |
+  | **Dashboard** | Interactive HTML: cine MRI + donut + risk gauge |
+  
+  > 🎓 **Collaborator:** Aniruddha Chakraborty &nbsp;·&nbsp; **Mentor:** Mr. Biraj Upadhyaya
+  
+  </td>
+  <td width="40%" align="center">
+  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/3D_UNet-8B5CF6?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/BraTS_2021-EC4899?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/BioMistral--7B-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /><br/>
+  <br/>
+  <br/><br/>
+  [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Brain-Tumor-Segmentation-AI-Report-Generation.git)
+  
+  </td>
+  </tr>
+  </table>
+  
+  ---
+  
+  <div align="center">
+  
+  ### ✍️ Roman → Devanagari Transliteration System
+  
+  </div>
+  
+  <table>
+  <tr>
+  <td width="80%">
+  
+  ```
+  🔤 Sentence-level Hinglish → Hindi transliteration
+  🤖 Fine-tuned Gemma-2B using QLoRA
+  📱 Handles noisy social media text & slang
+  📊 Evaluated: CER · WER · chrF · Word-level
+  ```
+  
+  | Feature | Description |
+  |:--|:--|
+  | **Noise Handling** | Slang, abbreviations, repeated characters |
+  | **Phonetic Learning** | Roman → Devanagari deep sound mapping |
+  | **Context-Aware** | Resolves ambiguous spellings via context |
+  | **Evaluation** | CER, WER, chrF, Word-level metrics |
+  
+  </td>
+  <td width="40%" align="center">
+  
+  <img src="https://img.shields.io/badge/Gemma--2B-8B5CF6?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/QLoRA-EC4899?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" /><br/><br/>
+  [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Roman-to-Devanagari-Transliteration-System.git)
+  
+  </td>
+  </tr>
+  </table>
+  
+  ---
+  
+  <div align="center">
+  
+  ### 💸 MONEVO — Smart Expense Tracker
+  
+  </div>
+  
+  <table>
+  <tr>
+  <td width="80%">
+  
+  ```
+  🧾 OCR → reads receipt images automatically
+  🤖 LLM → categorizes & tags expenses intelligently
+  📊 Real-time analytics & spending insights dashboard
+  ```
+  
+  | Feature | Description |
+  |:--|:--|
+  | **OCR** | Extracts line items from receipt images |
+  | **LLM Integration** | AI-powered categorization & analysis |
+  | **Dashboard** | Real-time analytics & spending insights |
+  | **Smart Tags** | Automatic expense classification |
+  
+  </td>
+  <td width="40%" align="center">
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/><br/>
+  [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/MONEVO-A-Smart-Expense-Tracker.git)
+  
+  </td>
+  </tr>
+  </table>
+  
+  ---
+  
+  <div align="center">
+  
+  ### 🎙️ Vocalyze — AI Speech-to-Text Generator
+  
+  </div>
+  
+  <table>
+  <tr>
+  <td width="80%">
+  
+  ```
+  🌐 Multilingual: English · Hindi · Hinglish
+  🔄 Real-time translation between languages
+  ✍️ AI-powered grammar & spelling correction
+  📄 Export transcripts in multiple formats
+  ```
+  
+  | Feature | Description |
+  |:--|:--|
+  | **Multilingual** | English, Hindi, and Hinglish support |
+  | **Translation** | Real-time cross-language translation |
+  | **Grammar AI** | Automatic grammar & spelling fix |
+  | **Export** | Multi-format transcript downloads |
+  
+  </td>
+  <td width="40%" align="center">
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/><br/>
+  [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Vocalyze-A-Speech-to-text-Geneartor.git)
+  &nbsp;
+  [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vocalyze31.web.app/)
+  
+  </td>
+  </tr>
+  </table>
+  
+  ---
+  
+  <br/>
+  
+  <div align="center">
+  
+  ### 📦 More Projects
+  
+  | 🚀 Project | 📋 Description | 🛠 Stack | 🔗 Links |
+  |:--|:--|:--|:--|
+  | 📚 **Readsy** | E-Book Platform with 75K+ Gutenberg books | React · Vite · Firebase | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Dhruv3110/Readsy-E-book-Platform.git) [![Live](https://img.shields.io/badge/-Live-00C853?style=flat-square)](https://readsy.web.app/) |
+  | 📄 **Resume AI** | BERT-powered semantic resume screening | Python · BERT · Transformers | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Dhruv3110/Resume_Screening_System.git) |
+  | 📝 **Summarizer** | LSTM abstractive text summarizer | TensorFlow · Python · NLP | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Dhruv3110/Abstractive_Text_Summarization_LSTM.git) |
+  | 🔢 **SortCraft** | Animated sorting algorithm visualizer | React · Firebase | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Dhruv3110/Sorting_Visualizer.git) [![Live](https://img.shields.io/badge/-Live-00C853?style=flat-square)](https://sorting-visualizer-e31d8.web.app/) |
+  | 💬 **QuickTalk** | Real-time chat with E2E encryption | React · Socket.io · Node.js | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Dhruv3110/QuickTalk_Real_Time_Chat_Application.git) [![Live](https://img.shields.io/badge/-Live-00C853?style=flat-square)](https://quicktalk-3e3ec.web.app/) |
+  
+  </div>
 </div>
-
-<br>
-
-```
-Sentence-level Hinglish (Roman Hindi) → Hindi (Devanagari) transliteration system
-Fine-tuned Gemma-2B using QLoRA to handle noisy social media text
-```
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **Noise Handling** | Handles slang, abbreviations, repeated characters, and informal spellings |
-| **Phonetic Learning** | Learns Roman → Devanagari sound mappings using deep learning |
-| **Context-Aware Output** | Resolves ambiguous spellings using sentence-level context |
-| **Evaluation** | Tested using CER, WER, chrF, and Word level Metrics |
-
-<br/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Roman-to-Devanagari-Transliteration-System.git)
-
-</div>
-
-<br/>
-<br/>
 
 ---
 
 <br/>
 
-<!-- Project 2: Monevo Expense Tracker -->
-<div align="center">
-
-### **MONEVO: Smart Expense Tracker**
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-</div>
-
-<br/>
-
-```
-AI-powered expense tracker that processes receipt images using OCR and LLMs
-Automatically categorizes expenses and provides insightful analytics
-```
+## 📊 GitHub Statistics
 
 <div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **OCR Technology** | Extracts text from receipt images automatically |
-| **LLM Integration** | Uses AI to categorize and analyze expenses intelligently |
-| **Interactive Dashboard** | Real-time analytics and spending insights |
-| **Smart Categorization** | Automatic expense classification and tagging |
-
-<br/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/MONEVO-A-Smart-Expense-Tracker.git)
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<!-- Project 3: Vocalyze Speech-to-Text -->
-<div align="center">
-
-### **Vocalyze: AI Speech-to-Text Generator**
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-```
-Multilingual AI speech-to-text app for English, Hindi, and Hinglish
-Automatic translation, grammar correction, text-to-speech, and document export
-```
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **Multilingual Support** | Works with English, Hindi, and Hinglish languages |
-| **Auto Translation** | Real-time translation between supported languages |
-| **Grammar Correction** | AI-powered grammar and spelling corrections |
-| **Document Export** | Export transcripts in multiple formats |
-
-<br/>
-
-<a href="https://github.com/Dhruv3110/Vocalyze-A-Speech-to-text-Geneartor.git" target="_blank">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://vocalyze31.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<!-- Project 4: Readsy E-Book Platform -->
-<div align="center">
-
-### **Readsy: An E-Book Platform**
-
-<img src="https://img.shields.io/badge/React_Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/API_Integration-FF6F00?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-```
-A dynamic e-book web app that integrates the Project Gutenberg API
-Allows users to explore, read, and manage a library of 75,000+ public domain books
-```
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **Vast Library** | Access to 75,000+ public domain books via Gutenberg API |
-| **User Management** | Login and account management with Firebase |
-| **Book Search** | Advanced search and filtering capabilities |
-| **Responsive Design** | Modern UI built with React Vite and Tailwind CSS |
-
-<br/>
-
-<a href="https://github.com/Dhruv3110/Readsy-E-book-Platform.git" target="_blank">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://readsy.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<!-- Project 5: Resume Screening System -->
-<div align="center">
-
-### **Resume Screening System**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformer-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-```
-An AI-powered system that analyzes and ranks resumes using NLP techniques
-Uses transformer models to automate candidate screening and shortlisting for recruiters
-```
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **Text Processing** | Extracts keywords, skills, and qualifications from resumes |
-| **Similarity Scoring** | Matches resumes against job descriptions using AI |
-| **Automated Ranking** | Ranks candidates based on relevance and fit |
-| **Transformer Models** | Leverages BERT for deep semantic understanding |
-
-<br/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Resume_Screening_System.git)
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<!-- Project 6: Abstractive Text Summarizer -->
-<div align="center">
-
-### **An Abstractive Text Summarizer**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-```
-A deep learning-based system that generates concise summaries from long documents
-Uses sequence-to-sequence models and attention mechanisms
-```
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **Sequence-to-Sequence** | LSTM-based encoder-decoder architecture |
-| **Attention Mechanism** | Focuses on important parts of the input text |
-| **Abstractive Approach** | Generates new sentences rather than extracting existing ones |
-| **Long Document Support** | Handles large text inputs efficiently |
-
-<br/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv3110/Abstractive_Text_Summarization_LSTM.git)
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<!-- Project 7: SortCraft Sorting Visualizer -->
-<div align="center">
-
-### **SortCraft: A Sorting Visualizer**
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Google_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Data_Structure-8B5CF6?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-```
-Developed an interactive sorting visualizer using ReactJS, HTML, and CSS
-Showcasing step-by-step execution of multiple algorithms to enhance algorithm learning
-```
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **Multiple Algorithms** | Visualizes Bubble, Merge, Quick, Heap, and more sorting algorithms |
-| **Step-by-Step Execution** | Shows detailed algorithm execution with animations |
-| **Interactive Controls** | Adjust speed, array size, and algorithm selection |
-| **Educational Tool** | Helps students understand algorithm complexity visually |
-
-<br/>
-
-<a href="https://github.com/Dhruv3110/Sorting_Visualizer.git" target="_blank">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://sorting-visualizer-e31d8.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<!-- Project 8: Quick Talk Chat App -->
-<div align="center">
-
-### **Quick Talk — Real-time Chat Application**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
-</div>
-
-<br/>
-
-```
-Modern real-time messaging platform with enterprise-grade features
-Built for speed, reliability, and seamless communication
-```
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **Instant Messaging** | WebSocket-powered real-time message delivery |
-| **Notifications** | Smart push notifications and message alerts |
-| **Group Chats** | Multi-user conversations with admin controls |
-| **End-to-End Encryption** | Secure messaging with privacy-first approach |
-
-<br/>
-
-<a href="https://github.com/Dhruv3110/QuickTalk_Real_Time_Chat_Application.git" target="_blank">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://quicktalk-3e3ec.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-
-## **GITHUB STATISTICS**
-
-<div align="center">
-
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv3110&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=EC4899&fire=F59E0B&currStreakLabel=C9D1D9" />
-
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" /> -->
-<br>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv3110&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=EC4899" /> 
-
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruv3110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=EC4899" />
 
 <br/>
 
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
 
-## **CONNECT WITH ME**
+<br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv3110&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=EC4899" />
+
+</div>
+
+---
+
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dhruv-gupta-794968244/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="mailto:dhruvgupta.dg31@gmail.com" target = "_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+&nbsp;
+<a href="mailto:dhruvgupta.dg31@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://dhruvgupta-dev.web.app/">
+&nbsp;
+<a href="https://dhruvgupta-dev.web.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
@@ -519,8 +335,10 @@ Built for speed, reliability, and seamless communication
 
 <br/><br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dhruv3110&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="./assests/footer.svg"/>
+<br/>
+
+<!-- <img width="100%" src="./assests/footer.svg"/> -->
