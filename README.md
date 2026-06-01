@@ -53,6 +53,8 @@ const dhruv: Developer = {
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
 <br/>
+<br/>
+
 
 **🤖 AI / ML & Data Science**
 
@@ -65,11 +67,13 @@ const dhruv: Developer = {
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 <br/>
+<br/>
 
 **🌐 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux&theme=dark" />
 
+<br/>
 <br/>
 
 **⚙️ Backend & Databases**
@@ -78,6 +82,7 @@ const dhruv: Developer = {
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 
+<br/>
 <br/>
 
 **🧪 Testing & Automation**
@@ -92,12 +97,15 @@ const dhruv: Developer = {
 <img src="https://img.shields.io/badge/Extent_Reports-FF6F00?style=for-the-badge&logoColor=white" />
 
 <br/>
+<br/>
 
 **🛠 Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
 
 </div>
+
+<br/>
 
 ---
 
