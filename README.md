@@ -266,13 +266,6 @@ const dhruv: Developer = {
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv3110&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=EC4899&fire=F59E0B&currStreakLabel=C9D1D9" />
 
-<br/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dhruv3110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=EC4899" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
 
 <br/>
 
