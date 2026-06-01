@@ -1,9 +1,9 @@
- <!--<div align="center">
+<div align="center">
 
-<img width="100%" src="./assests/Github_banner (2).png" />
+<img width="30%" src="./assests/avatarProfile.png" />
 
 </div> 
--->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=850&height=130&lines=Hey+there!+I'm+Dhruv+Gupta+%F0%9F%91%8B;AI+Engineer+%7C+Full-Stack+Developer+%7C+QA-Automation+Tester;Building+AI+Solutions+%E2%80%A2+Web+Apps+%E2%80%A2+Test+Automation+%F0%9F%9A%80)](https://git.io/typing-svg)
